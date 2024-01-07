@@ -1,0 +1,36 @@
+.vi1{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    
+
+}
+.vi2{
+    background-color: rgb(43, 226, 73);
+    width: 150px;
+    height: 100px;
+    position: absolute;
+   
+   
+   
+
+}
+.vi3{
+    background-color: rgb(226, 43, 52);
+    width: 200px;
+    height: 100px;
+    position: absolute;
+   
+    
+
+   
+}
+.vi4{
+    background-color: orange;
+    width: 25px;
+    height: 100px;
+    position: absolute;
+    z-index: 1;
+    
+}
